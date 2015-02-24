@@ -27,6 +27,7 @@
     "gulp-replace": "^0.5.3"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "gulp": "^3.8.8"
   }
 }
